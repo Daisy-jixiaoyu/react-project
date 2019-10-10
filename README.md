@@ -20,7 +20,7 @@ React实战项目，项目分为用户列表、消息列表、个人中心、登
 npm install
 
 # 启动项目
-npm run dev
+npm run start
 
 # 打包发布
 npm run build
@@ -32,8 +32,8 @@ npm run build
 # 安装依赖
 npm install
 
-# 进入bin目录
-node www
+# 启动后端
+npm run start
 
 ```
 
