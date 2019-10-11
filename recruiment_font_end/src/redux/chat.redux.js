@@ -1,6 +1,4 @@
-/**
- * Created by haita on 2017/12/19 0019.
- */
+
 import axios from 'axios';
 import io from 'socket.io-client';
 const socket = io('ws://localhost:3000');
