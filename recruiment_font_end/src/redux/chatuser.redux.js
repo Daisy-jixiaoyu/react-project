@@ -1,6 +1,3 @@
-/**
- * Created by haita on 2017/12/17 0017.
- */
 import axios from 'axios';
 const USER_LIST = 'USER_LIST';
 const initState = {
