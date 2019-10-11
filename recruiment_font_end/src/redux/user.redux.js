@@ -1,6 +1,3 @@
-/**
- * Created by haita on 2017/12/14 0014.
- */
 import axios from 'axios';
 import {getRedirectToUrl} from '../util/util';
 import { Toast } from 'antd-mobile'
